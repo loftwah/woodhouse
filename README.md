@@ -52,7 +52,7 @@ Alternatively, you can use Docker to run the bot. To do so:
 
 A starting prompt will be invoked when the bot is first started or reset. To set it up:
 
-1. Modify the content in `starting-prompt.txt`
+1. Modify the content in `starting-prompt.txt` (I have set this up to begin in DAN mode. If you don't know what this is, please Google it)
 2. All the text in the file will be fired as a prompt to the bot
 3. Get the first message from Woodhouse in your Discord channel by right-clicking on the channel you want to receive the message from, copying the ID, and pasting it into `.env` under `DISCORD_CHANNEL_ID`
 
