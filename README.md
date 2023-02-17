@@ -66,4 +66,4 @@ If you'd like to contribute to Woodhouse, feel free to fork the repository and s
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL License.
