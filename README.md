@@ -2,7 +2,7 @@
 
 Get things done with Woodhouse
 
-![Woodhouse](https://user-images.githubusercontent.com/19922556/219645171-6fba43a6-f339-44ee-ae63-6f2f13aa0af3.jpg)
+![Woodhouse](https://user-images.githubusercontent.com/19922556/222026473-31684975-3a12-47a8-a4e3-3d81a575aa47.jpg)
 
 Welcome to Woodhouse, your personal assistant for all things Discord. With Woodhouse, you can chat with a state-of-the-art AI, powered by OpenAI's GPT-3 technology, and perform various commands to customize your chat experience. Whether you're looking to switch between public and private chat, reply to all messages in a channel, or clear your conversation history, Woodhouse has got you covered.
 
